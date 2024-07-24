@@ -4,10 +4,8 @@ body {
     margin: 1;
     padding: 1;
     box-sizing: border-box;
-    background-color: rgb(245, 243, 243);
-    
+    background-color: rgb(245, 243, 243);   
 }
-
 h1 {
     text-align: left;
 }
@@ -24,8 +22,7 @@ th, td {
 }
 a {
     text-decoration: none;
-    color: black;
-    
+    color: black;  
 }
 
 
